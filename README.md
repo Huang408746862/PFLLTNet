@@ -30,7 +30,6 @@ LOLv2 - [Google Drive](https://drive.google.com/file/d/1OMfP6Ks2QKJcru1wS2eP629P
   <b>Datasets should be organized as follows:</b>
   </summary>
 
-  ```
     |--data   
     |    |--LOLv1
     |    |    |--Train
@@ -66,7 +65,6 @@ LOLv2 - [Google Drive](https://drive.google.com/file/d/1OMfP6Ks2QKJcru1wS2eP629P
     |    |    |    |    |    ...
     |    |    |    |    |--Normal
     |    |    |    |    |    ...
-  ```
 
 </details>
 
