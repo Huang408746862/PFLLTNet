@@ -115,9 +115,9 @@ python main.py --train --dataset LOLv2_Synthetic
 ```
 ## Results
 
-| Dataset  | Original    |               |GTMean     |               |
+|          |          Original           |         GTMean            |
 |----------|-------------|---------------|-----------|---------------|
-|          | PSNR        | SSIM          | PSNR      | SSIM          |
+|Dataset   | PSNR        | SSIM          | PSNR      | SSIM          |
 | LOLv1    | 23.44       | 0.848         | 26.81     | 0.863         |
 | LOLv2-R  | 26.45       | 0.884         | 29.91     | 0.894         |
 | LOLv2-S  |23.73        | 0.923         | 29.82     | 0.943         |
