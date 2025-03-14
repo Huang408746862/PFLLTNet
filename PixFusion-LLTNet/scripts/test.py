@@ -32,7 +32,6 @@ def get_time():
     return current_time
 
 def start_test(dataset, weights, gtmean):
-    print('PFLLTNet-Net 2024 (c) Brateanu, A., Balmez, R., Avram A., Orhei, C.C.')
     print(f"({get_time()}) Testing on dataset: {dataset}")
 
     raw_test_path = ''
